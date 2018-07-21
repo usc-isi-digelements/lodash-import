@@ -8,7 +8,7 @@
     "lodash"
   ],
   "main": "lodash.html",
-  "homepage": "https://github.com/DigElements/lodash-import/",
+  "homepage": "https://github.com/usc-isi-digelements/lodash-import/",
   "ignore": [
     "/.*",
     "/test/"
